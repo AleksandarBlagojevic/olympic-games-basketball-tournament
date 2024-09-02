@@ -1,0 +1,12 @@
+{
+  "name": "basketball-tournament",
+  "version": "1.0.0",
+  "description": "Olympic Games Basketball Tournament",
+  "main": "olympicGames.js",
+  "scripts": {
+    "start": "node olympicGames.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksandar Blagojevic",
+  "license": "ISC"
+}
